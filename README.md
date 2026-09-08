@@ -1,6 +1,6 @@
 # Portfolio-DataAnalytics
 Industrial Maintenance Analytics Portfolio featuring Power BI, Data Modeling, KPI Monitoring and AI-driven Decision Support Solutions.
-# 🤖 Industrial Analytics & AI Solutions Portfolio
+# Industrial Analytics & AI Solutions Portfolio
 
 Hello, I'm Thiago Medici.
 
@@ -12,7 +12,7 @@ My projects go beyond traditional dashboards. They are designed to support decis
 
 ---
 
-# 🚀 Featured Project
+# Featured Project
 
 ## AI-Powered Maintenance Intelligence Platform
 
@@ -44,9 +44,9 @@ The solution contributed to the internal evaluation of AI adoption for maintenan
 
 ---
 
-# 📊 Portfolio Projects
+# Portfolio Projects
 
-## 🚜 Forklift Fleet Utilization Analysis
+## Forklift Fleet Utilization Analysis
 
 Dashboard developed to monitor fleet utilization by comparing actual operating hours against expected contracted hours.
 
@@ -62,7 +62,7 @@ The solution helps identify underutilized fleets, optimize resource allocation, 
 
 ---
 
-## 🔧 NPT Preventive Maintenance Capacity Planning
+## NPT Preventive Maintenance Capacity Planning
 
 Planning and monitoring solution developed to ensure preventive maintenance targets can be delivered within the available workforce capacity.
 
@@ -78,7 +78,7 @@ The dashboard continuously evaluates remaining activities, available working day
 
 ---
 
-## 📋 Daily Maintenance Performance Report
+## Daily Maintenance Performance Report
 
 Operational reporting dashboard used to monitor maintenance events responsible for production losses.
 
@@ -94,7 +94,7 @@ The solution consolidates failure information, root causes, corrective actions, 
 
 ---
 
-## 💰 Structural Maintenance Cost Control
+## Structural Maintenance Cost Control
 
 Cost monitoring dashboard developed to support budget control and expenditure visibility for structural maintenance activities.
 
@@ -110,7 +110,7 @@ The solution provides supervisors with a centralized view of maintenance spendin
 
 ---
 
-# 🛠️ Technologies & Skills
+# Technologies & Skills
 
 ### Data Analytics
 
@@ -144,7 +144,7 @@ The solution provides supervisors with a centralized view of maintenance spendin
 
 ---
 
-# 🎯 Areas of Interest
+# Areas of Interest
 
 - Industrial Analytics
 - Business Intelligence
@@ -157,7 +157,7 @@ The solution provides supervisors with a centralized view of maintenance spendin
 
 ---
 
-# ⚠️ Disclaimer
+# Disclaimer
 
 All examples presented in this portfolio use fictional, anonymized, or adapted data exclusively for demonstration purposes.
 
@@ -165,7 +165,7 @@ No confidential, proprietary, or company-sensitive information is disclosed.
 
 ---
 
-## 📫 Contact
+## Contact
 
 Feel free to connect with me for discussions about:
 
