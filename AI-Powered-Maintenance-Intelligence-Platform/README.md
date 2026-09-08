@@ -157,11 +157,20 @@ Ranking of machine groups responsible for the highest maintenance downtime, supp
 Ranking of machine groups responsible for production losses, enabling data-driven identification of critical assets and improvement opportunities.
 
 ---
-## Data Model
+## Technical Highlights
 
-The solution was built using a dimensional data model designed to support scalable maintenance analytics and KPI calculation across multiple equipment groups, categories, and operational periods.
+### Data Modeling
 
-*Data model preview:*
+The solution was developed using a dimensional data model composed of:
+
+- Fact tables for maintenance events and scheduled hours
+- Equipment dimensions
+- Category dimensions
+- Shift dimensions
+- Calendar tables
+- Dedicated measure tables
+
+This architecture allows scalable KPI calculations and maintenance performance analysis across multiple operational perspectives.
 
 <img width="1547" height="804" alt="data-model" src="https://github.com/user-attachments/assets/1927a603-2a9f-4d9d-a6e8-a9fbf6947ae2" />
 
