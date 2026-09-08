@@ -124,9 +124,37 @@ By reducing manual analysis effort and accelerating action plan generation, the 
 
 ---
 
-## Dashboard Preview
+## Dashboard Gallery
 
-*Dashboard screenshots will be added here.*
+### Operational KPIs Overview
+
+dashboard-overview.png
+
+This page consolidates the main maintenance performance indicators, including MTTR, MTBF, maintenance downtime, production losses, maintenance calls, and scheduled operating hours.
+
+---
+
+### Monthly Performance Comparison
+
+dashboard-comparatingInsights.png
+
+Comparative analysis between current and previous periods, allowing supervisors and engineers to quickly identify positive and negative trends in maintenance performance.
+
+---
+
+### Maintenance Downtime Prioritization
+
+dashboard-timeranking.png
+
+Ranking of machine groups responsible for the highest maintenance downtime, supporting maintenance prioritization and resource allocation decisions.
+
+---
+
+### Production Loss Prioritization
+
+dashboard-lossranking.png
+
+Ranking of machine groups responsible for production losses, enabling data-driven identification of critical assets and improvement opportunities.
 
 ---
 
