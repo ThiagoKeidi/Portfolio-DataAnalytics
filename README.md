@@ -1,5 +1,5 @@
 # Portfolio-DataAnalytics
-Data Analytics Dashboards developed for maintenance at an industry environment
+Industrial Maintenance Analytics Portfolio featuring Power BI, Data Modeling, KPI Monitoring and AI-driven Decision Support Solutions.
 # 🤖 Industrial Analytics & AI Solutions Portfolio
 
 Hello, I'm Thiago Medici.
