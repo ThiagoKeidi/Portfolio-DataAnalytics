@@ -128,7 +128,7 @@ By reducing manual analysis effort and accelerating action plan generation, the 
 
 ### Operational KPIs Overview
 
-./dashboard-overview.png
+<img width="1263" height="709" alt="dashboard-overview" src="https://github.com/user-attachments/assets/71fd497c-409e-4a7f-ad83-c5a7d705df96" />
 
 This page consolidates the main maintenance performance indicators, including MTTR, MTBF, maintenance downtime, production losses, maintenance calls, and scheduled operating hours.
 
@@ -136,7 +136,7 @@ This page consolidates the main maintenance performance indicators, including MT
 
 ### Monthly Performance Comparison
 
-./dashboard-comparatingInsights.png
+<img width="1261" height="705" alt="dashboard-comparatingInsights" src="https://github.com/user-attachments/assets/c1bae98d-407e-4890-bccc-a1c3d71e903c" />
 
 Comparative analysis between current and previous periods, allowing supervisors and engineers to quickly identify positive and negative trends in maintenance performance.
 
@@ -144,7 +144,7 @@ Comparative analysis between current and previous periods, allowing supervisors 
 
 ### Maintenance Downtime Prioritization
 
-./dashboard-timeranking.png
+<img width="1263" height="708" alt="dashboard-timeranking" src="https://github.com/user-attachments/assets/17fe4cc0-ae38-46d9-9123-392054feb860" />
 
 Ranking of machine groups responsible for the highest maintenance downtime, supporting maintenance prioritization and resource allocation decisions.
 
@@ -152,7 +152,7 @@ Ranking of machine groups responsible for the highest maintenance downtime, supp
 
 ### Production Loss Prioritization
 
-./dashboard-lossranking.png
+<img width="1264" height="706" alt="dashboard-lossranking" src="https://github.com/user-attachments/assets/90daf46a-8f27-4c46-8c6d-6a7139d9bc2a" />
 
 Ranking of machine groups responsible for production losses, enabling data-driven identification of critical assets and improvement opportunities.
 
