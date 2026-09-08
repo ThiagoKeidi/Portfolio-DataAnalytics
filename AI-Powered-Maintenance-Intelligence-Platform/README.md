@@ -128,7 +128,7 @@ By reducing manual analysis effort and accelerating action plan generation, the 
 
 ### Operational KPIs Overview
 
-<img width="1263" height="709" alt="dashboard-overview" src="https://github.com/user-attachments/assets/71fd497c-409e-4a7f-ad83-c5a7d705df96" />
+<img width="1600" height="900" alt="dashboard-overview" src="https://github.com/user-attachments/assets/242d172e-22f2-423e-9105-dd48efcd68f0" />
 
 This page consolidates the main maintenance performance indicators, including MTTR, MTBF, maintenance downtime, production losses, maintenance calls, and scheduled operating hours.
 
@@ -136,7 +136,7 @@ This page consolidates the main maintenance performance indicators, including MT
 
 ### Monthly Performance Comparison
 
-<img width="1261" height="705" alt="dashboard-comparatingInsights" src="https://github.com/user-attachments/assets/c1bae98d-407e-4890-bccc-a1c3d71e903c" />
+<img width="1600" height="900" alt="dashboard-monthcomparative" src="https://github.com/user-attachments/assets/eed3c49e-d0e5-4d9c-b73c-217275e72e40" />
 
 Comparative analysis between current and previous periods, allowing supervisors and engineers to quickly identify positive and negative trends in maintenance performance.
 
@@ -144,7 +144,7 @@ Comparative analysis between current and previous periods, allowing supervisors 
 
 ### Maintenance Downtime Prioritization
 
-<img width="1263" height="708" alt="dashboard-timeranking" src="https://github.com/user-attachments/assets/17fe4cc0-ae38-46d9-9123-392054feb860" />
+<img width="1600" height="900" alt="dashboard-timeranking" src="https://github.com/user-attachments/assets/8c523a27-8f97-4b6a-838d-8145fefb55b2" />
 
 Ranking of machine groups responsible for the highest maintenance downtime, supporting maintenance prioritization and resource allocation decisions.
 
@@ -152,7 +152,7 @@ Ranking of machine groups responsible for the highest maintenance downtime, supp
 
 ### Production Loss Prioritization
 
-<img width="1264" height="706" alt="dashboard-lossranking" src="https://github.com/user-attachments/assets/90daf46a-8f27-4c46-8c6d-6a7139d9bc2a" />
+<img width="1599" height="893" alt="dashboard-lossesranking" src="https://github.com/user-attachments/assets/3efa3a68-82e7-415d-9916-272ac9b908c7" />
 
 Ranking of machine groups responsible for production losses, enabling data-driven identification of critical assets and improvement opportunities.
 
@@ -172,7 +172,7 @@ The solution was developed using a dimensional data model composed of:
 
 This architecture allows scalable KPI calculations and maintenance performance analysis across multiple operational perspectives.
 
-<img width="1547" height="804" alt="data-model" src="https://github.com/user-attachments/assets/1927a603-2a9f-4d9d-a6e8-a9fbf6947ae2" />
+<img width="1600" height="836" alt="dashboard-model" src="https://github.com/user-attachments/assets/c289b1f9-1597-47fc-ae81-cca0d719d55b" />
 
 ---
 ## Disclaimer
