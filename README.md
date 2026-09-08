@@ -1,221 +1,167 @@
 # Portfolio-DataAnalytics
 Data Analytics Dashboards developed for maintenance at an industry environment
-# 📊 Industrial Maintenance Analytics Portfolio
+# 🤖 Industrial Analytics & AI Solutions Portfolio
 
-Welcome to my Data Analytics Portfolio.
+Hello, I'm Thiago Medici.
 
-My name is Thiago Medici, and I specialize in Industrial Maintenance Analytics, Business Intelligence, and Operational Performance Monitoring.
+I am an Industrial Maintenance professional passionate about Data Analytics, Business Intelligence, Operational Excellence, and Artificial Intelligence.
 
-This portfolio showcases analytical solutions developed to support maintenance management, equipment utilization, cost control, production loss reduction, and decision-making processes within a manufacturing environment.
+This portfolio showcases analytical solutions developed to improve maintenance performance, asset reliability, resource planning, cost control, and production efficiency within manufacturing environments.
 
-The projects were developed using Power BI, Excel, Power Query, DAX, VBA, and Artificial Intelligence integration to transform operational data into actionable business insights.
+My projects go beyond traditional dashboards. They are designed to support decision-making, automate analytical processes, identify operational risks, and generate actionable insights from maintenance and production data.
 
 ---
 
-# 🚀 Projects
+# 🚀 Featured Project
+
+## AI-Powered Maintenance Intelligence Platform
+
+A maintenance decision-support platform developed using Power BI, maintenance data analysis, and Generative AI.
+
+The solution was designed to transform maintenance indicators into actionable recommendations, helping supervisors and engineers identify critical assets, recurring failures, production loss drivers, and maintenance priorities.
+
+Instead of spending hours manually analyzing maintenance reports and creating action plans, users can generate executive summaries and maintenance improvement plans automatically through AI integration.
+
+### Main Capabilities
+
+- Maintenance KPI monitoring
+- Recurring failure identification
+- Production loss analysis
+- Critical asset prioritization
+- Maintenance time ranking
+- Production loss ranking
+- Automated executive report generation
+- AI-generated action plans
+- Data-driven maintenance prioritization
+
+### Business Impact
+
+The platform was presented to managers, engineers, and maintenance supervisors as part of a digital transformation initiative.
+
+The project introduced a new approach to maintenance analysis by combining operational data with Artificial Intelligence to accelerate decision-making and support continuous improvement initiatives.
+
+The solution contributed to the internal evaluation of AI adoption for maintenance processes and demonstrated how Generative AI could be leveraged to improve productivity and maintenance performance.
+
+---
+
+# 📊 Portfolio Projects
 
 ## 🚜 Forklift Fleet Utilization Analysis
 
-### Business Challenge
+Dashboard developed to monitor fleet utilization by comparing actual operating hours against expected contracted hours.
 
-A large forklift fleet represents a significant operational cost. Underutilized equipment generates unnecessary expenses, while overutilized assets increase operational risks and maintenance requirements.
+The solution helps identify underutilized fleets, optimize resource allocation, and reduce unnecessary operational costs.
 
-### Solution
+### Key Metrics
 
-This dashboard was developed to measure fleet utilization by comparing:
-
-- Initial month hour meter readings
-- Final month hour meter readings
-- Expected operating hours paid for during the month
-
-The solution calculates actual utilization and compares it against expected utilization, allowing management to identify fleets with excessive idle time and optimize asset allocation.
-
-### Key Features
-
-- Monthly utilization analysis
-- Fleet-level filtering
-- Supervisor-level filtering
-- Utilization percentage calculation
-- Actual operating hours tracking
-- Expected operating hours comparison
-
-### Business Impact
-
-The dashboard enables data-driven decisions regarding fleet sizing, utilization optimization, and cost reduction opportunities.
+- Utilization Percentage
+- Operating Hours
+- Expected Hours
+- Fleet Performance
+- Supervisor Performance
 
 ---
 
-## 🔧 NPT Preventive Maintenance Control
+## 🔧 NPT Preventive Maintenance Capacity Planning
 
-### Business Challenge
+Planning and monitoring solution developed to ensure preventive maintenance targets can be delivered within the available workforce capacity.
 
-The maintenance department is responsible for completing XX preventive maintenance activities per month while operating with limited workforce capacity.
+The dashboard continuously evaluates remaining activities, available working days, and maintenance capacity, providing early warnings when targets are at risk.
 
-Missing preventive maintenance targets increases the risk of equipment failure and operational interruptions.
+### Key Metrics
 
-### Solution
-
-A planning and monitoring dashboard was developed to continuously compare:
-
-- Remaining preventive maintenance activities
-- Available working days
-- Current maintenance workforce capacity
-
-Supervisors update the operational spreadsheet daily, and the dashboard automatically evaluates whether the available resources are sufficient to deliver all scheduled preventive activities before month-end.
-
-### Key Features
-
-- Daily progress monitoring
-- Preventive maintenance completion tracking
-- Workforce capacity analysis
-- Remaining work estimation
-- Early warning indicators
-- Monthly delivery forecasting
-
-### Business Impact
-
-Allows supervisors to proactively reallocate resources and avoid missing preventive maintenance targets.
+- Preventive Maintenance Compliance
+- Workforce Capacity
+- Remaining Activities
+- Monthly Delivery Forecast
+- Resource Allocation
 
 ---
 
 ## 📋 Daily Maintenance Performance Report
 
-### Business Challenge
+Operational reporting dashboard used to monitor maintenance events responsible for production losses.
 
-Production losses caused by maintenance-related failures require immediate visibility and understanding of root causes.
+The solution consolidates failure information, root causes, corrective actions, and maintenance downtime to support daily performance reviews.
 
-Without structured monitoring, it becomes difficult to identify recurring issues and evaluate maintenance performance.
+### Key Metrics
 
-### Solution
-
-A daily reporting dashboard was developed using maintenance work orders associated with production losses.
-
-For every event, the system records:
-
-- Failure description
-- Root cause
-- Corrective actions performed
-- Maintenance downtime
-
-### Key Features
-
-- Daily maintenance performance tracking
-- Production loss monitoring
-- Problem classification
-- Root cause analysis
-- Corrective action documentation
-- Maintenance downtime measurement
-
-### Business Impact
-
-Provides operational visibility and supports continuous improvement initiatives through structured failure analysis.
-
----
-
-## 📈 Maintenance KPI Monitoring & Strategic Analysis
-
-### Business Challenge
-
-Daily operational reports provide limited visibility into long-term maintenance performance.
-
-A broader analytical approach was required to identify recurring problems, prioritize assets, and support strategic maintenance planning.
-
-### Solution
-
-This dashboard consolidates all maintenance work orders and generates a monthly overview of maintenance performance.
-
-The solution identifies:
-
-- Recurring failures
-- Equipment groups with highest maintenance time
-- Assets with largest production losses
-- Maintenance performance trends
-
-In addition, the solution was integrated with AI to automatically generate:
-
-- Monthly maintenance reports
-- Executive summaries
-- Corrective action plans
-- Asset-specific recommendations
-
-### Key Features
-
-- MTTR analysis
-- MTBF analysis
-- Maintenance time ranking
-- Production loss ranking
-- Failure trend identification
-- AI-generated maintenance reports
-- AI-generated action plans
-
-### Business Impact
-
-Supports maintenance prioritization, reduces recurring failures, and helps drive production efficiency improvements.
+- Production Loss Events
+- Maintenance Downtime
+- Failure Categories
+- Root Cause Analysis
+- Corrective Actions
 
 ---
 
 ## 💰 Structural Maintenance Cost Control
 
-### Business Challenge
+Cost monitoring dashboard developed to support budget control and expenditure visibility for structural maintenance activities.
 
-Structural maintenance activities involve continuous spending on spare parts, materials, and repair components.
+The solution provides supervisors with a centralized view of maintenance spending and cost trends.
 
-Exceeding budget targets negatively impacts operational performance and financial planning.
+### Key Metrics
 
-### Solution
-
-A cost monitoring dashboard was developed to provide full visibility of maintenance expenditures and budget consumption.
-
-The dashboard allows supervisors to monitor spending patterns and identify cost drivers before budget thresholds are exceeded.
-
-### Key Features
-
-- Maintenance cost monitoring
-- Budget tracking
-- Monthly expenditure analysis
-- Cost trend analysis
-- Cost breakdown by category
-
-### Business Impact
-
-Improves financial control, supports budget compliance, and increases spending transparency.
+- Maintenance Costs
+- Budget Consumption
+- Monthly Expenditure
+- Cost Trends
+- Cost Breakdown
 
 ---
 
-# 🛠️ Technology Stack
+# 🛠️ Technologies & Skills
+
+### Data Analytics
 
 - Power BI
 - DAX
 - Power Query
 - Microsoft Excel
 - VBA
+
+### Data Engineering & Modeling
+
 - Data Modeling
 - ETL Processes
-- Artificial Intelligence Integration
-- Maintenance Analytics
+- KPI Development
+- Dashboard Design
+
+### Industrial Maintenance
+
+- Maintenance KPIs
 - Reliability Engineering
+- Preventive Maintenance
+- Production Loss Analysis
+- Cost Management
+
+### Artificial Intelligence
+
+- Generative AI
+- AI-Assisted Reporting
+- Automated Action Plan Generation
+- Business Process Automation
 
 ---
 
-# 📊 Areas of Expertise
+# 🎯 Areas of Interest
 
-- Industrial Data Analytics
-- Maintenance Performance Management
-- Reliability Engineering
-- Preventive Maintenance Planning
-- Asset Utilization Optimization
-- Production Loss Analysis
-- KPI Development
-- Cost Management
+- Industrial Analytics
 - Business Intelligence
+- Maintenance Engineering
+- Reliability Engineering
+- Digital Transformation
+- Artificial Intelligence Applications
+- Data-Driven Decision Making
+- Continuous Improvement
 
 ---
 
 # ⚠️ Disclaimer
 
-All dashboards and examples presented in this portfolio use fictional, anonymized, or adapted information for demonstration purposes only.
+All examples presented in this portfolio use fictional, anonymized, or adapted data exclusively for demonstration purposes.
 
-No confidential, proprietary, or company-sensitive data is disclosed.
+No confidential, proprietary, or company-sensitive information is disclosed.
 
 ---
 
