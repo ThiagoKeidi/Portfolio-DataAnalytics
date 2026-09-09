@@ -136,6 +136,10 @@ This page guarantees full traceability: every figure shown in the charts can be 
 - DAX measures for totals, group aggregation, ranking and target comparison
 - Bookmark and button navigation for group-level drill-down
 
+**MODEL SCREENSHOT**
+
+<img width="1393" height="1129" alt="WhatsApp Image 2026-09-09 at 13 49 17" src="https://github.com/user-attachments/assets/3f596543-1a20-4a7d-b1bf-c11b9866eb0d" />
+
 ---
 
 ## Technologies Used
